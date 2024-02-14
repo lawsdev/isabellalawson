@@ -27,25 +27,15 @@ Screenprinting sprint/apprenticeship during back to school season
 ## **Education**
 
 **University of Louisville (2021)**
-
 Bachelor of Fine Arts
-
-Specializing in painting
-
+Specialization in painting
 Self-installed thesis show; large installation of interconnected paintings/cut-outs
 
 **DuPont Manual High School**
-
 Visual Arts
-
 Studied graphic design, screenprinting, fiber art, painting, drawing
-
 Created from start to finish a 12 piece portfolio that received a National Scholastic AP Award (displayed in New York City) in a timespan of 2 weeks
 
 **Code Louisville (2021-2023)**
 
-Certificates in Web Development, Software Development, &UXDesign
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+Certificates in Web Development, Software Development, & UXDesign
