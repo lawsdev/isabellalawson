@@ -3,7 +3,6 @@
 ## **Experience**
 
 **Vismark** (2021- present, part-time)
-
 - Laser engraving on drinkware pre-production &production
 - Adapt vector files for laser engraving, using Adobe Illustrator &Radian Laser software
 - Implement knowledge of duty cycle, laser hatch distance/pattern, and product diameter to ensure finished product is true to digital mockup
@@ -14,9 +13,7 @@
 - Web development - Shopify custom features &bug fixes, web layout
 
 **Chase Marketing (2021)**
-
 Screenprinting sprint/apprenticeship during back to school season
-
 - Mixed ink to customer color specification
 - Registered shirts on the press to be printed
 - Cleaned printed shirts of any extra ink before drying
@@ -35,5 +32,15 @@ Studied graphic design, screenprinting, fiber art, painting, drawing
 Created from start to finish a 12 piece portfolio that received a National Scholastic AP Award (displayed in New York City) in a timespan of 2 weeks
 
 **Code Louisville (2021-2023)**
+Certificates in Web Development, Software Development, & UX Design
 
-Certificates in Web Development, Software Development, & UXDesign
+## **Skills**
+
+- Adobe Illustrator, Photoshop, InDesign
+- Typography, graphic design
+- Painting; color theory; reproducing photographs in paint 
+- Photography; adjusting digital proofs for contrast and saturation for print
+- Customer service (food service)
+- HTML/CSS/JavaScript
+- Web design
+
