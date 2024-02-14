@@ -1,5 +1,3 @@
-# **Isabella Lawson** ⧫ [hello@isabellalawson.com](mailto:hello@isabellalawson.com) ⧫ 502-554-5816
-
 ### Graphics production specialist with a detail-oriented workflow. Learned laser marking software in less than a month, experienced in Adobe Illustrator, Photoshop and InDesign.
 
 ## **Experience**
