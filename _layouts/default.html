@@ -23,7 +23,12 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
+        
+        <h3>DOWNLOAD PDF OF MY RESUME</h3>
+        <a href="/assets/IsabellaLawsonResume.pdf" download>
+          <img src="/assets/pdficon.png" alt="PDF" width="104" height="142">
+        </a>
+          
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 <!--  {% if site.github.is_project_page %}
