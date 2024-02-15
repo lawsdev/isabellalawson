@@ -2,7 +2,8 @@
 
 ## **Experience**
 
-**Vismark (2021-present, part-time)**
+**Vismark (2021-present, part-time)** 
+Part of USA Image
 - Laser engraving on drinkware pre-production & production
 - Adapt vector files for laser engraving, using Adobe Illustrator & Radian Laser software
 - Implement knowledge of duty cycle, laser hatch distance/pattern, and product diameter to ensure finished product is true to digital mockup
