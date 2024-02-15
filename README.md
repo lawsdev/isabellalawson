@@ -39,6 +39,7 @@ Screenprinting sprint/apprenticeship during back to school season
 
 - Adobe Illustrator, Photoshop, InDesign
 - Typography, graphic design
+- Printing digital art; making stickers from digital art with print then cut (Silhouette)
 - Painting; color theory; reproducing photographs in paint 
 - Photography; adjusting digital proofs for contrast and saturation for print
 - Customer service (food service)
