@@ -3,14 +3,14 @@
 ## **Experience**
 
 **Vismark** (2021- present, part-time)
-- Laser engraving on drinkware pre-production &production
-- Adapt vector files for laser engraving, using Adobe Illustrator &Radian Laser software
+- Laser engraving on drinkware pre-production & production
+- Adapt vector files for laser engraving, using Adobe Illustrator & Radian Laser software
 - Implement knowledge of duty cycle, laser hatch distance/pattern, and product diameter to ensure finished product is true to digital mockup
 - Created new etching setting to consistently achieve very intricate interior design details, enabling customers (NBC, HBO, XBOXetc.) to use as much detail as they like
 - Learned specialized laser software within 20 days
 - Create digital mockups for products, created mockup template
 - Work alone with little supervision
-- Web development - Shopify custom features &bug fixes, web layout
+- Web development - Shopify custom features & bug fixes, web layout
 
 **Chase Marketing (2021)**
 Screenprinting sprint/apprenticeship during back to school season
