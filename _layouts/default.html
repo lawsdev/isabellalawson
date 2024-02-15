@@ -7,8 +7,11 @@
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
 
-{% seo %}
+  {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     
     <!--[if lt IE 9]>
@@ -27,7 +30,7 @@
         
         <h2><strong>{{ site.description | default: site.github.project_tagline }}</h2></strong>
         
-        <h3><a href="/assets/IsabellaLawsonResume.pdf" style="text-decoration:underline;" download>Download a PDF of my resume</a>
+        <h3><a href="/assets/IsabellaLawsonResume.pdf" style="text-decoration:underline;font-family:'Nunito';" download>Download a PDF of my resume</a>
         <a href="/assets/IsabellaLawsonResume.pdf" download><span class="material-symbols-outlined md-24">picture_as_pdf</span></a></h3>
         
 <!--  {% if site.github.is_project_page %}
