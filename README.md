@@ -22,17 +22,17 @@ Screenprinting sprint/apprenticeship during back to school season
 ## **Education**
 
 **University of Louisville (2021)**
-Bachelor of Fine Arts
-Specialization in painting
-Self-installed thesis show; large installation of interconnected paintings/cut-outs
+*Bachelor of Fine Arts*
+-Specialization in painting
+-Self-installed thesis show; large installation of interconnected paintings/cut-outs
 
 **DuPont Manual High School**
-Visual Arts
-Studied graphic design, screenprinting, fiber art, painting, drawing
-Created from start to finish a 12 piece portfolio that received a National Scholastic AP Award (displayed in New York City) in a timespan of 2 weeks
+*Visual Arts*
+-Studied graphic design, screenprinting, fiber art, painting, drawing
+-Created from start to finish a 12 piece portfolio that received a National Scholastic AP Award (displayed in New York City) in a timespan of 2 weeks
 
 **Code Louisville (2021-2023)**
-Certificates in Web Development, Software Development, & UX Design
+-Certificates in Web Development, Software Development, & UX Design
 
 ## **Skills**
 
