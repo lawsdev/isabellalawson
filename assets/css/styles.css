@@ -1,4 +1,5 @@
 h1 {
-  background-color: black;
-  color: #ABDFED;
+  background-color: #ABDFED;
+  color: black;
+  padding: 10px; 
 }
